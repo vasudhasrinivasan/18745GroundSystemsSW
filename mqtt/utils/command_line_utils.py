@@ -1,5 +1,6 @@
 # Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 # SPDX-License-Identifier: Apache-2.0.
+# Retrieved from the connection module in AWS IoT core's user page
 
 import argparse
 from awscrt import io, http, auth
